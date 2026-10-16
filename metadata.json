@@ -1,0 +1,6 @@
+{
+  "name": "CamTV — Cameroonian & International Live TV",
+  "description": "Your window to Cameroon and beyond. Discover and watch Cameroonian and international live television channels with verified stream sources, official broadcaster portals, and broadcast guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
